@@ -1,6 +1,6 @@
 # filter_glowscript
 <p>Use simple insert syntaxis to add GlowScript visualizations to your Moodle content by using of any available languages.</p>
-<p>If you downloaded filter from GitHub and you have problems with installation on Moodle 2.*, you need to to set "Rename the root directory" to "glowscript", while installing</p>
+<p>If you downloaded filter from GitHub and you have problems with installation, you need to to set "Rename the root directory" to "glowscript", while installing</p>
 <h2>Available languages:</h2>
 <ol>
     <li>VPython</li>
