@@ -1,7 +1,7 @@
 # glowscript_filter
-<h1>Usage guide</h1>
+<p>Use simple insert syntaxis to add GlowScript visualizations to your Moodle content by using of any available languages.</p>
 
-<h2>Avalible languages:</h2>
+<h2>Available languages:</h2>
 <ol>
     <li>VPython</li>
     <li>JavaScript</li>
